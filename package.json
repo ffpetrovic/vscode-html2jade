@@ -38,11 +38,11 @@
 		"commands": [
 			{
 				"command": "extension.html2jade",
-				"title": "Convert HTML to Jade"
+				"title": "Convert HTML to Pug"
 			},
 			{
 				"command": "extension.jade2html",
-				"title": "Convert Jade to HTML"
+				"title": "Convert Pug to HTML"
 			}
 		]
 	},
